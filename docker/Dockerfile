@@ -1,5 +1,7 @@
 FROM continuumio/anaconda3
-MAINTAINER "Andrei Maksimov"
+MAINTAINER "Jose"
+
+# based on https://github.com/andreivmaksimov/python_data_science/blob/master/Dockerfile.anaconda
 
 RUN apt-get update && apt-get install -y libgtk2.0-dev && \
     rm -rf /var/lib/apt/lists/* && \
