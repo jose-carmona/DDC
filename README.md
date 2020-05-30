@@ -9,3 +9,7 @@ Kaggle Deepfake Detection Challenge.
 ### Papers
 
 * [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/pdf/1909.11573.pdf)
+
+### Useful info
+
+* [Skin Detection Using OpenCV Python](https://nalinc.github.io/blog/2018/skin-detection-python-opencv/)
